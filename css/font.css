@@ -1,0 +1,71 @@
+@font-face {font-family: "Sys TT W00 Italic";
+  src: url("../webfonts/Sys/../webfonts/Sys/9e5c3172834845a2eba5cb68bcfa7f46.eot"); /* IE9*/
+  src: url("../webfonts/Sys/../webfonts/Sys/9e5c3172834845a2eba5cb68bcfa7f46.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../webfonts/Sys/../webfonts/Sys/9e5c3172834845a2eba5cb68bcfa7f46.woff2") format("woff2"), /* chrome、firefox */
+  url("../webfonts/Sys/../webfonts/Sys/9e5c3172834845a2eba5cb68bcfa7f46.woff") format("woff"), /* chrome、firefox */
+  url("../webfonts/Sys/../webfonts/Sys/9e5c3172834845a2eba5cb68bcfa7f46.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../webfonts/Sys/../webfonts/Sys/9e5c3172834845a2eba5cb68bcfa7f46.svg#Sys TT W00 Italic") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "Sys W03 Book";
+  src: url("../webfonts/Sys/dafefcab50da1606d8d124c1a4cf570b.eot"); /* IE9*/
+  src: url("../webfonts/Sys/dafefcab50da1606d8d124c1a4cf570b.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../webfonts/Sys/dafefcab50da1606d8d124c1a4cf570b.woff2") format("woff2"), /* chrome、firefox */
+  url("../webfonts/Sys/dafefcab50da1606d8d124c1a4cf570b.woff") format("woff"), /* chrome、firefox */
+  url("../webfonts/Sys/dafefcab50da1606d8d124c1a4cf570b.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../webfonts/Sys/dafefcab50da1606d8d124c1a4cf570b.svg#Sys W03 Book") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "Sys TT W00 Regular";
+  src: url("../webfonts/Sys/e0843410bac5600edce5a35546f66edf.eot"); /* IE9*/
+  src: url("../webfonts/Sys/e0843410bac5600edce5a35546f66edf.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../webfonts/Sys/e0843410bac5600edce5a35546f66edf.woff2") format("woff2"), /* chrome、firefox */
+  url("../webfonts/Sys/e0843410bac5600edce5a35546f66edf.woff") format("woff"), /* chrome、firefox */
+  url("../webfonts/Sys/e0843410bac5600edce5a35546f66edf.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../webfonts/Sys/e0843410bac5600edce5a35546f66edf.svg#Sys TT W00 Regular") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "Sys TT W00 Bold Italic";3. BALY:
+61°11'45.3"N 6°29'08.6"E
+61.195904, 6.485732
+400mm x 400mm
+
+4. DUNA:
+48°03'22.4"N 17°13'40.2"E
+48.056232, 17.227837
+400mm x 1400mm
+
+2. KLØYVD:
+61°13'14.7"N 6°32'11.1"E
+61.220751, 6.536405
+400mm x 400mm
+
+1. REIRET:
+61°12'52.2"N 6°33'08.5"E
+61.214498, 6.552371
+400mm x 400mm
+
+
+Skala:
+1:50
+
+Materiale:
+MDF?
+Konstruksjonsvirke?
+
+  src: url("../webfonts/Sys/9e98a293e772e9aab404c98f39a5a85b.eot"); /* IE9*/
+  src: url("../webfonts/Sys/9e98a293e772e9aab404c98f39a5a85b.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../webfonts/Sys/9e98a293e772e9aab404c98f39a5a85b.woff2") format("woff2"), /* chrome、firefox */
+  url("../webfonts/Sys/9e98a293e772e9aab404c98f39a5a85b.woff") format("woff"), /* chrome、firefox */
+  url("../webfonts/Sys/9e98a293e772e9aab404c98f39a5a85b.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../webfonts/Sys/9e98a293e772e9aab404c98f39a5a85b.svg#Sys TT W00 Bold Italic") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "Sys TT W00 Bold";
+  src: url("../webfonts/Sys/7e24782140983a5f860200c1235b15ff.eot"); /* IE9*/
+  src: url("../webfonts/Sys/7e24782140983a5f860200c1235b15ff.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../webfonts/Sys/7e24782140983a5f860200c1235b15ff.woff2") format("woff2"), /* chrome、firefox */
+  url("../webfonts/Sys/7e24782140983a5f860200c1235b15ff.woff") format("woff"), /* chrome、firefox */
+  url("../webfonts/Sys/7e24782140983a5f860200c1235b15ff.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../webfonts/Sys/7e24782140983a5f860200c1235b15ff.svg#Sys TT W00 Bold") format("svg"); /* iOS 4.1- */
+}

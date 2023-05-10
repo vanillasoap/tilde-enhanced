@@ -86,7 +86,7 @@ class Help {
         .map(({ category, name, key, url, icon }, i) => {
           const iconEl = CONFIG.iconExtension !== 'svg'
                        ? `<img src='assets/icons/${icon}.png' height = 28px center style="filter: invert(${invertValue});">`
-                       : `<img src='assets/icons/${icon}.svg' onload="SVGInject(this)" height = 28px center style="fill: ${fgcolor};">`
+                       : `<i class='fa-${icon} fa-1x'></i>`
   
           if (category === currentCategory) {
             return `
@@ -94,7 +94,6 @@ class Help {
                 .command-key-${i} {
                   color: ${fgcolor}; 
                   background-color:${bgcolor};
-                  border: 4px solid ${fgcolor}; 
                 }   
               </style>
               <li class="command">
@@ -118,7 +117,6 @@ class Help {
                         .command-key-${i} {
                           color: ${fgcolor}; 
                           background-color:${bgcolor};
-                          border: 4px solid ${fgcolor}; 
                         }   
                       </style>
                   <span class="command-key command-key-${i}">${key}</span>
