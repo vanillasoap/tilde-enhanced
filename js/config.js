@@ -4,7 +4,7 @@ const CONFIG = {
    * Icons must be added to "icons" folder and their values/names must be updated.
    * If none of the specified keys are matched, the '*' key is used.
    * Commands without a category don't show up in the help menu.
-   * Update line 12 and 13 if you prefer using Google.
+   * Update line 11 and 13 if you prefer using Google.
    */
   commands: [{
       name: 'Google',
@@ -17,7 +17,7 @@ const CONFIG = {
       name: 'Archinect',
       key: 'an',
       url: 'https://archinect.com/',
-      color: 'radial-gradient(#A100FFFF, #119CFDFF)',
+      color: 'linear-gradient(135deg, rgb(115, 125, 254), rgb(255, 202, 201))',
       icon: 'fa fa-archinect',
       quickLaunch: true,
     },
@@ -26,7 +26,7 @@ const CONFIG = {
       name: 'au magazine',
       key: 'au',
       url: 'https://au-magazine.com/',
-      color: 'radial-gradient(#A100FFFF, #119CFDFF)',
+      color: 'linear-gradient(135deg, rgb(115, 125, 254), rgb(255, 202, 201))',
       icon: 'fa fa-au',
       quickLaunch: true,
     },
@@ -35,7 +35,7 @@ const CONFIG = {
       name: 'Detail',
       key: 'det',
       url: 'https://www.detail.de/en/de_en/',
-      color: 'radial-gradient(#A100FFFF, #119CFDFF)',
+      color: 'linear-gradient(135deg, rgb(115, 125, 254), rgb(255, 202, 201))',
       icon: 'fa fa-detail',
       quickLaunch: true,
     },   
@@ -44,7 +44,7 @@ const CONFIG = {
       name: 'Kote',
       key: 'ko',
       url: 'https://www.magasinetkote.no/publikasjoner/mutasjon',
-      color: 'radial-gradient(#A100FFFF, #119CFDFF)',
+      color: 'linear-gradient(135deg, rgb(115, 125, 254), rgb(255, 202, 201))',
       icon: 'fa fa-kote',
       quickLaunch: true,
     },        
@@ -54,7 +54,7 @@ const CONFIG = {
       key: 'm',
       url: 'https://gmail.com',
       search: '/#search/text={}',
-      color: 'radial-gradient(#A100FFFF, #119CFDFF)',
+      color: 'linear-gradient(135deg, rgb(115, 125, 254), rgb(255, 202, 201))',
       icon: 'google fa-brands',
       quickLaunch: true,
     },
