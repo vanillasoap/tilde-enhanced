@@ -4,7 +4,7 @@ const CONFIG = {
    * Icons must be added to "icons" folder and their values/names must be updated.
    * If none of the specified keys are matched, the '*' key is used.
    * Commands without a category don't show up in the help menu.
-   * Update line 11 and 13 if you prefer using Google.
+   * Update line 12 and 13 if you prefer using Google.
    */
   commands: [{
       name: 'Google',
@@ -17,7 +17,7 @@ const CONFIG = {
       name: 'Archinect',
       key: 'an',
       url: 'https://archinect.com/',
-      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      color: 'radial-gradient(#A100FFFF, #119CFDFF)',
       icon: 'fa fa-archinect',
       quickLaunch: true,
     },
@@ -26,7 +26,7 @@ const CONFIG = {
       name: 'au magazine',
       key: 'au',
       url: 'https://au-magazine.com/',
-      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      color: 'radial-gradient(#A100FFFF, #119CFDFF)',
       icon: 'fa fa-au',
       quickLaunch: true,
     },
@@ -35,7 +35,7 @@ const CONFIG = {
       name: 'Detail',
       key: 'det',
       url: 'https://www.detail.de/en/de_en/',
-      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      color: 'radial-gradient(#A100FFFF, #119CFDFF)',
       icon: 'fa fa-detail',
       quickLaunch: true,
     },   
@@ -44,7 +44,7 @@ const CONFIG = {
       name: 'Kote',
       key: 'ko',
       url: 'https://www.magasinetkote.no/publikasjoner/mutasjon',
-      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      color: 'radial-gradient(#A100FFFF, #119CFDFF)',
       icon: 'fa fa-kote',
       quickLaunch: true,
     },        
@@ -54,7 +54,7 @@ const CONFIG = {
       key: 'm',
       url: 'https://gmail.com',
       search: '/#search/text={}',
-      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      color: 'radial-gradient(#A100FFFF, #119CFDFF)',
       icon: 'google fa-brands',
       quickLaunch: true,
     },
@@ -64,7 +64,7 @@ const CONFIG = {
       key: 'd',
       url: 'https://drive.google.com',
       search: '/drive/search?q={}',
-      color: 'linear-gradient(135deg, #FFD04B, #1EA362, #4688F3)',
+      color: 'linear-gradient(to top left, #A100FFFF, #119CFDFF)',
       icon: 'google-drive fa-brands',
       quickLaunch: false,
     },
@@ -122,7 +122,7 @@ const CONFIG = {
       key: 'y',
       url: 'https://youtube.com',
       search: '/results?search_query={}',
-      color: 'linear-gradient(135deg, #cd201f, #cd4c1f)',
+      color: 'linear-gradient(135deg, #f14658, #dc2537)',
       icon: 'youtube fa-brands',
       quickLaunch: false,
     },
